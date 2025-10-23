@@ -9,7 +9,7 @@ Yup, ....
 * `mpu_prapanca.ipynb` berisi implementasi berdasarkan walktrough andrej karpathy
 
 ## Hasil:
-Dengan memasukkan kata "raja" kedalam model yang telah dilatih menggunakan `Pararaton_Mpu_Prapanca.txt`, kumpulan teks Mpu Prapanca berdasarkan Kitab Pararaton dan Kitab Negarakertagama, berikut adalah hasilnya:
+Dengan memasukkan kata "raja" kedalam model yang telah dilatih menggunakan `Pararaton_Mpu_Prapanca.txt` (kumpulan teks Mpu Prapanca berdasarkan Kitab Pararaton dan Kitab Negarakertagama), berikut adalah hasilnya:
 
 
 **50 token:**
